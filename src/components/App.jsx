@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import "./App.css";
-import phoneBookData from "../Data/PhoneBook.json";
+import phoneBookData from "../data/PhoneBook.json";
 import SearchBox from "./SearchBox/SearchBox.jsx";
 import ContactList from "./ContactList/ContactList.jsx";
 import ContactForm from "./ContactForm/ContactForm.jsx";
